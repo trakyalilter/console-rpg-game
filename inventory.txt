@@ -1,0 +1,2 @@
+Sword:Wooden Sword,100,10
+Ring:Wooden Ring,50,5
